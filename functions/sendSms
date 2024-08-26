@@ -1,0 +1,6 @@
+const credentials = {
+    apiKey
+}
+
+
+const Africastalking = require("africastalking")(credentials)
